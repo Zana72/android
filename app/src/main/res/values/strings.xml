@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RMR-App</string>
+    <string name="title_activity_main">RMR-App</string>
+    <string name="package_name">com.rmr.app</string>
+    <string name="custom_url_scheme">com.rmr.app</string>
+</resources>
